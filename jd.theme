@@ -279,9 +279,9 @@ Gdraw.GDrawable.Box.BorderType: none
 Gdraw.GDrawable.Box.BorderWidth: 0
 Gdraw.GDrawable.Box.Padding: 0
 
+Gdraw.GTabSet.Box.NormalBackground: #ffffff
 Gdraw.GTabSet.Box.BorderType: box
-Gdraw.GTabSet.Box.BorderShape: roundrect
+Gdraw.GTabSet.Box.BorderShape: rect
 Gdraw.GTabSet.Box.BorderWidth: 1
-Gdraw.GTabSet.Box.Radius: 2
 
 
