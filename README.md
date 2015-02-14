@@ -1,4 +1,5 @@
 # Jeremie's Theme
+<!-- TODO: Same thing only better... -->
 A theme for [FontForge](http://fontforge.github.io/).
 
 # Help
