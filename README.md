@@ -1,5 +1,9 @@
 # Jeremie's Theme
-A theme for FontForge.
+<!-- TODO: Same thing only better... -->
+A theme for [FontForge](http://fontforge.github.io/).
+
+# Help
+I need your help! If you're a designer or just want to help design a better theme for FontForge, don't hesitate. I'm not a designer, I just want the program I use to make fonts to be pretty. And there's not just the icons to make. You can test it on your platform and signal any issue you encounter so that I can fix it. Or you can try and work withe the UI editor in FontForge, but it's wuite difficult to use.
 
 # Installation
 <!-- TODO: Same thing only better... -->
