@@ -6,7 +6,7 @@ A theme for [FontForge](http://fontforge.github.io/).
 I need your help! If you're a designer or just want to help design a better theme for FontForge, don't hesitate. I'm not a designer, I just want the program I use to make fonts to be pretty. And there's not just the icons to make. You can test it on your platform and signal any issue you encounter so that I can fix it. Or you can try and work withe the UI editor in FontForge, but it's wuite difficult to use.
 
 # About the icons
-If you want to help design the icons, you can do that in `Mess.psd`. As its name implies, it needs a little clean-up. So good luck.
+If you want to help design the icons, you can do that in `Menu Icons (16x).psd` and in `Palette Icons (24x).psd`
 
 # Installation
 <!-- TODO: Same thing only better... -->
