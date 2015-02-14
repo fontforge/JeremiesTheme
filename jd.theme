@@ -83,7 +83,7 @@ Gdraw.Background: #ededed
 Gdraw.Foreground: #222222
 Gdraw.ScreenWidthCentimeters: 36.5225
 
-Gdraw.GProgress.Font: 400 11pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GProgress.Font: 400 11pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 Gdraw.GProgress.Foreground: #222222
 Gdraw.GProgress.FillColor: #88b2de
 Gdraw.GProgress.Background: #fffffc
@@ -119,7 +119,7 @@ Gdraw.GGadget.Box.BorderShape: rect
 Gdraw.GGadget.Box.BorderWidth: 1
 Gdraw.GGadget.Box.Padding: 2
 Gdraw.GGadget.Box.Radius: 0
-Gdraw.GGadget.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GGadget.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 Gdraw.GGadget.TextImageSkip: 4
 Gdraw.GGadget.ImagePath: ~/.FontForge/tango-ct.theme:~/.FontForge/tango-ct.theme/tango:/Applications/FontForge.app/Contents/Resources/opt/local/share/fontforge/pixmaps/:=
 
@@ -132,7 +132,7 @@ Gdraw.GListMark.Width: 8
 Gdraw.GLabel.Box.BorderType: none
 Gdraw.GLabel.Box.BorderWidth: 0
 Gdraw.GLabel.Box.Padding: 0
-Gdraw.GLabel.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GLabel.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GButton.Box.BorderInner: False
 Gdraw.GButton.Box.BorderOuter: False
@@ -140,7 +140,7 @@ Gdraw.GButton.Box.DoDepressedBackground: False
 Gdraw.GButton.Box.DrawDefault: False
 Gdraw.GButton.Box.NormalBackground: #fffffc
 Gdraw.GButton.Box.BorderType: box
-Gdraw.GButton.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GButton.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 Gdraw.GButton.ShiftOnPress: False
 
 Gdraw.GDefaultButton.Box.BorderBrightest: #598ec6
@@ -158,7 +158,7 @@ Gdraw.GCancelButton.Box.BorderDarkest: #c76359
 
 Gdraw.GRadio.Box.BorderType: none
 Gdraw.GRadio.Box.Padding: 2
-Gdraw.GRadio.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GRadio.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GRadioOn.Box.DoDepressedBackground: False
 Gdraw.GRadioOn.Box.PressedBackground: #88b2de
@@ -176,7 +176,7 @@ Gdraw.GRadioOff.DisabledImage: radio-off-dis.png
 
 Gdraw.GCheckBox.Box.BorderType: none
 Gdraw.GCheckBox.Box.Padding: 0
-Gdraw.GCheckBox.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GCheckBox.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GCheckBoxOn.Box.DoDepressedBackground: False
 Gdraw.GCheckBoxOn.Box.PressedBackground: #88b2de
@@ -200,7 +200,7 @@ Gdraw.GCheckBoxOff.DisabledImage: check_off-dis.png
 Gdraw.GTextField.Box.NormalBackground: #fffffc
 Gdraw.GTextField.Box.BorderType: box
 Gdraw.GTextField.Box.Padding: 2
-Gdraw.GTextField.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GTextField.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GComboBox.Box.BorderInner: True
 
@@ -215,7 +215,7 @@ Gdraw.GNumericFieldSpinner.Box.Padding: 2
 Gdraw.GList.Box.BorderOuter: False
 Gdraw.GList.Box.NormalBackground: #fffffc
 Gdraw.GList.Box.BorderType: box
-Gdraw.GList.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GList.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GScrollBar.Box.BorderOuter: False
 Gdraw.GScrollBar.Box.NormalBackground: #ebebeb
@@ -248,14 +248,14 @@ Gdraw.GMenuBar.Box.BorderOuter: False
 Gdraw.GMenuBar.Box.BorderShape: rect
 Gdraw.GMenuBar.Box.BorderWidth: 1
 Gdraw.GMenuBar.Box.Radius: 2
-Gdraw.GMenuBar.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GMenuBar.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GMenu.Box.BorderOuter: False
 Gdraw.GMenu.Box.NormalBackground: #fffffc
 Gdraw.GMenu.Box.BorderOuterCol: #dedede
 Gdraw.GMenu.Box.BorderShape: rect
 Gdraw.GMenu.Box.Padding: 3
-Gdraw.GMenu.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GMenu.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 Gdraw.GMenu.MacIcons: False
 
 Gdraw.GMatrixEdit.Box.NormalBackground: #ffffff
@@ -264,7 +264,7 @@ Gdraw.GMatrixEdit.Box.BorderType: none
 Gdraw.GMatrixEdit.Box.BorderShape: rect
 Gdraw.GMatrixEdit.Box.BorderWidth: 0
 Gdraw.GMatrixEdit.Box.Padding: 0
-Gdraw.GMatrixEdit.Font: 400 10pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GMatrixEdit.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GMatrixEdit.TitleBG: #a09f9e
 Gdraw.GMatrixEdit.TitleFG: #222222
@@ -273,7 +273,7 @@ Gdraw.GMatrixEdit.RuleCol: #908f8e
 Gdraw.GMatrixEdit.FrozenCol: #a40000
 Gdraw.GMatrixEdit.ActiveCol: #3465a4
 Gdraw.GMatrixEdit.ActiveBG: #88b2de
-Gdraw.GMatrixEdit.TitleFont: 700 8pt ubuntu,cantarell,lucida console,unifont
+Gdraw.GMatrixEdit.TitleFont: 700 8pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GDrawable.Box.BorderType: none
 Gdraw.GDrawable.Box.BorderWidth: 0
