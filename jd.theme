@@ -21,13 +21,13 @@ fontforge.CharView.CoordinateLineColor: #808080
 fontforge.CharView.ItalicCoordColor: #909090
 fontforge.CharView.MetricsLabelColor: #000000
 fontforge.CharView.HintLabelColor: #00cccc
-fontforge.CharView.BlueValuesStippledColor: #808080ff
-fontforge.CharView.FamilyBlueStippledColor: #80ff7070
+fontforge.CharView.BlueValuesStippledColor: #885555
+fontforge.CharView.FamilyBlueStippledColor: #885555
 fontforge.CharView.DHintColor: #80d0a0a0
 fontforge.CharView.HHintColor: #80a0d0a0
 fontforge.CharView.VHintColor: #80c0c0ff
-fontforge.CharView.HFlexHintColor: #00ff00
-fontforge.CharView.VFlexHintColor: #00ff00
+fontforge.CharView.HFlexHintColor: #307082
+fontforge.CharView.VFlexHintColor: #2b5c78
 fontforge.CharView.ConflictHintColor: #00ffff
 fontforge.CharView.HHintActiveColor: #00a000
 fontforge.CharView.VHintActiveColor: #0000ff
@@ -79,7 +79,7 @@ fontforge.MetricsView.SelectedGlyphColor: #2b2b2b
 
 fontforge.View.Background: #ffffff
 
-Gdraw.Background: #ededed
+Gdraw.Background: #ffffff
 Gdraw.Foreground: #222222
 Gdraw.ScreenWidthCentimeters: 36.5225
 
@@ -103,7 +103,7 @@ Gdraw.GGadget.Box.DrawDefault: False
 Gdraw.GGadget.Box.GradientBG: False
 Gdraw.GGadget.Box.NormalForeground: #222222
 Gdraw.GGadget.Box.DisabledForeground: #b5b4b3
-Gdraw.GGadget.Box.NormalBackground: #ebebeb
+Gdraw.GGadget.Box.NormalBackground: #ffffff
 Gdraw.GGadget.Box.DisabledBackground: #fffffc
 Gdraw.GGadget.Box.PressedBackground: #fffffc
 Gdraw.GGadget.Box.GradientStartCol: #edeceb
@@ -218,7 +218,7 @@ Gdraw.GList.Box.BorderType: box
 Gdraw.GList.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GScrollBar.Box.BorderOuter: False
-Gdraw.GScrollBar.Box.NormalBackground: #ebebeb
+Gdraw.GScrollBar.Box.NormalBackground: #ffffff
 Gdraw.GScrollBar.Box.BorderOuterCol: #ebebeb
 Gdraw.GScrollBar.Box.BorderType: none
 Gdraw.GScrollBar.Box.BorderWidth: 1
@@ -276,10 +276,9 @@ Gdraw.GMatrixEdit.ActiveBG: #88b2de
 Gdraw.GMatrixEdit.TitleFont: 700 8pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GDrawable.Box.BorderType: none
-Gdraw.GDrawable.Box.BorderWidth: 0
+Gdraw.GDrawable.Box.BorderWidth: 1
 Gdraw.GDrawable.Box.Padding: 0
 
-Gdraw.GTabSet.Box.NormalBackground: #ffffff
 Gdraw.GTabSet.Box.BorderType: box
 Gdraw.GTabSet.Box.BorderShape: rect
 Gdraw.GTabSet.Box.BorderWidth: 1
