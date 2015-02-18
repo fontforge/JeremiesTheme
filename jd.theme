@@ -79,7 +79,7 @@ fontforge.MetricsView.SelectedGlyphColor: #2b2b2b
 
 fontforge.View.Background: #ffffff
 
-Gdraw.Background: #ffffff
+Gdraw.Background: #eeeeff
 Gdraw.Foreground: #222222
 Gdraw.ScreenWidthCentimeters: 36.5225
 
@@ -90,7 +90,7 @@ Gdraw.GProgress.Background: #fffffc
 
 Gdraw.GGadget.Popup.Font: 400 8pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 Gdraw.GGadget.Popup.Foreground: #222222
-Gdraw.GGadget.Popup.Background: #bcd2ea
+Gdraw.GGadget.Popup.Background: #eeeeff
 Gdraw.GGadget.Popup.Delay: 10
 Gdraw.GGadget.Popup.LifeTime: 20000
 
@@ -103,7 +103,7 @@ Gdraw.GGadget.Box.DrawDefault: False
 Gdraw.GGadget.Box.GradientBG: False
 Gdraw.GGadget.Box.NormalForeground: #222222
 Gdraw.GGadget.Box.DisabledForeground: #b5b4b3
-Gdraw.GGadget.Box.NormalBackground: #ffffff
+Gdraw.GGadget.Box.NormalBackground: #eeeeff
 Gdraw.GGadget.Box.DisabledBackground: #fffffc
 Gdraw.GGadget.Box.PressedBackground: #fffffc
 Gdraw.GGadget.Box.GradientStartCol: #edeceb
@@ -218,10 +218,10 @@ Gdraw.GList.Box.BorderType: box
 Gdraw.GList.Font: 400 10pt ubuntu,segoe ui,calibri,cantarell,lucida console,unifont
 
 Gdraw.GScrollBar.Box.BorderOuter: False
-Gdraw.GScrollBar.Box.NormalBackground: #ffffff
+Gdraw.GScrollBar.Box.NormalBackground: #eeeeff
 Gdraw.GScrollBar.Box.BorderOuterCol: #ebebeb
 Gdraw.GScrollBar.Box.BorderType: none
-Gdraw.GScrollBar.Box.BorderWidth: 1
+Gdraw.GScrollBar.Box.BorderWidth: 0
 Gdraw.GScrollBar.Box.Padding: 2
 
 Gdraw.GScrollBarThumb.Box.NormalForeground: #a6a6a6
@@ -282,5 +282,3 @@ Gdraw.GDrawable.Box.Padding: 0
 Gdraw.GTabSet.Box.BorderType: box
 Gdraw.GTabSet.Box.BorderShape: rect
 Gdraw.GTabSet.Box.BorderWidth: 1
-
-
